@@ -153,6 +153,4 @@ sudo systemctl restart nginx
 
 This was my attempt of creating an app that can handle background tasks using Django, Celery and Redis. 
 Thanks for reading!
-#� �b�a�c�k�g�r�o�u�n�d�_�t�a�s�k�_�m�a�n�a�g�e�r�
-�
-�
+
