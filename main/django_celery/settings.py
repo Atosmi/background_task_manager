@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'django_celery.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'db_celery',
-        'USER': 'owner_celery',
-        'PASSWORD': '0104089107',
+        'NAME': 'your-name',
+        'USER': 'your-username',
+        'PASSWORD': 'your-password',
         'HOST': '158.101.3.119',
         'PORT': '5432',
     }
